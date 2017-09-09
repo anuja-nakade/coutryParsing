@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Country</string>
+    <string name="response"> [
+  {
+    "priority": 6,
+    "country": "Ecuador",
+    "cities": [
+      {
+        "priority": 4,
+        "city": "Klondike"
+      }
+    ]
+  },
+  {
+    "priority": 4,
+    "country": "Norway",
+    "cities": [
+      {
+        "priority": 3,
+        "city": "Wilsonia"
+      }
+    ]
+  },
+  {
+    "priority": 1,
+    "country": "Sudan",
+    "cities": [
+      {
+        "priority": 4,
+        "city": "Cascades"
+      }
+    ]
+  }
+]</string>
+</resources>
